@@ -37,4 +37,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-You can reach me at [your-email@example.com](mailto:your-email@example.com).
+You can reach me at [contact@shakilislam.com](mailto:contact@shakilislam.com).
